@@ -3,6 +3,7 @@ using namespace std;
 char a[200010];
 int d[200010];
 //
+
 int main(){
     int t,n,k;
     cin>>t;
